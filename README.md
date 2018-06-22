@@ -1,2 +1,2 @@
-# eclib
+# ECLIB
 Embedded Clifford Library
